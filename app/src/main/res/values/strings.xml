@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Foodizz</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter valid Email</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="error_message_password">Enter Passeord</string>
+    <string name="success_message">Registration Success</string>
+    <string name="error_email_exist">Email Already Exist</string>
+    <string name="error_password_match">Password does not match</string>
+    <string name="error_valid_email_password">Wrong Username or Password</string>
+    <string name="Order">Order</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="profile">Profile</string>
+    <string name="search_hint">Masukkan kata</string>
+    <string name="email">athar.rosyadi@gmail.com</string>
+    <string name="steps">
+        1. Tumis bawang putih dan bawang merah hingga harum. Masukkan ayam, wortel dan kacang polong.
+        Tumis hingga ayam matang dan sayur terlihat sudah empuk. \n
+    2. Masukkan saus, kecap asin, garam dan merica sesuai selera. Tumis sebentar hingga bumbu tercampur rata. \n
+    3. Masukkan nasi putih dan aduk rata dengan bumbu. Masak hingga bumbu meresap dan nasi goreng siap. Sisihkan. \n
+    4. Di penggorengan lain, goreng telur yang sudah dikocok, buat agak lebar dan tipis saja. Tabur sedikit garam. Setelah matang, tempatkan telur di atas piring.\n
+    5. Tuang nasi goreng di tengah-tengah telur dadar. Lipat pinggiran telur dadar hingga menutupi nasi goreng. Balik nasi goreng balut telur dadar ini di piring lainnya.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
